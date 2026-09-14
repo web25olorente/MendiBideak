@@ -34,10 +34,11 @@ Lehen ikusi dudan web orria **WikiLoc** izan da.
 ### **Outdooractive: Senderismo**
 ![Outdooractive](https://play-lh.googleusercontent.com/dDv0dOUwvl8aWd7BzTq1PxG2QOBmshEi37HHvUneuVelfLL_8yXUa9qfDG2exhovHsqmU0Sy_IjFfifMz4_kCw=s0-br30)
 [Outdooractive](www.outdooractive.com)
-
+Aplikazio hau lehen aipatu dudan bezala, aldi bakar batean erabili nuen. Bere web orrira sartuta, bisualki nola ikusiko den orri nagusia ideiren bat etorri zait, baina berez ez dauka zer ikusirik web orrialde honekin, ezta beste web orrien
 
 ### **Google Maps**
 ![Maps](https://cdn-icons-png.magnific.com/256/2642/2642502.png?semt=ais_white_label)
 [Maps](https://maps.google.com/?authuser=0)
 
-Emendik pentsatu dut erabiltzea aplikazio hau ibilbidea markatzeko, ondoren esteka sortzeko eta nire aplikazioko `botoian` sakatuz gero eramateko ona eta ikusi ahal izateko ze ibilbide, nundik pasatu behar duen eta ... ikusteko erabiltzaileak. Ideia bezala dago, agian ez dut ondoren hau ipintzen.
+Emendik pentsatu dut erabiltzea aplikazio hau ibilbidea markatzeko, ondoren esteka sortzeko eta nire aplikazioko `botoian` sakatuz gero eramateko ona eta ikusi ahal izateko ze ibilbide, nundik pasatu behar duen eta ... ikusteko erabiltzaileak.
+> Ideia bezala dago, agian ez dut ondoren hau ipintzen.
