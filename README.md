@@ -48,18 +48,18 @@ Hemen izan den idea izan da erabiltzea aplikazio hau ibilbidea markatzea, ondore
 
 ---
 
-# 2. ERABILTZAILE MOTA (USER PROFILA)
+## 2. ERABILTZAILE MOTA (USER PROFILA):
 **Gauza bat bisualki erakargarria izateko, atzegina izan behar da eta garbia. Koloreekin, testuekin, edukiarekin eta itxurarekin apaindu behar da web orri guztia marrazki bat balitz bezala.**
 
 **Gure kasuan, hainbat kolore bizidun erabiltzea pentsatu dugu,** zergatik natura, animaliak, planeta eta entorno guztiak bizirik daude eta kolore azkoz osatuta daude, azkenean, kirola bizitza da, **gizakiok historio bat sortzen dugu ibiltzen dugunean.** Batzutan bakarrik eraikiko ditugu eta beste batzutan konpainian, baina geldik egonda ez dira historia berriak sortuko. Teknologia berri askok geroz eta lausoagoak ("vagos") egiten hari gaitu, gure helburua da teknologiari erabilera on bat ematea laguntzeko toki berrietara heltzera, entretenimendua planetan sortu ahal izatea pantaila baten ordez.
 
 Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria bero edo zer egingo duen , 
 
-## 3. NABIGAZIO MAPA + 4. KROKISA
+## 3. NABIGAZIO MAPA + 4. KROKISA:
 [Krokisa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
 
 ---
-## 4. Estilo Gida
+## 4. ESTILO GIDA:
 - **Koloreak.**
 - **Tipografia.**
 - **Ikonoak.**
