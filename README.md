@@ -70,3 +70,4 @@ Web orriak edukiko duen tipografia aldetik, **letra biribildunak** erabiltzea pe
 
 **Gure kasuan, hainbat kolore bizidun erabiltzea pentsatu dugu,** zergatik natura, animaliak, planeta eta entorno guztiak bizirik daude eta kolore azkoz osatuta daude, azkenean, kirola bizitza da, **gizakiok historio bat sortzen dugu ibiltzen dugunean.** Batzutan bakarrik eraikiko ditugu eta beste batzutan konpainian, baina geldik egonda ez dira historia berriak sortuko. Teknologia berri askok geroz eta lausoagoak ("vagos") egiten hari gaitu, gure helburua da teknologiari erabilera on bat ematea laguntzeko toki berrietara heltzera, entretenimendua planetan sortu ahal izatea pantaila baten ordez.
 
+Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria bero edo zer egingo duen , 
