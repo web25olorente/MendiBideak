@@ -65,6 +65,8 @@ Behin azalduta zabalgarri-menuko atzeko aldea nola izango den, zentratuko gara z
 
 Web orriak edukiko duen tipografia aldetik, **letra biribildunak** erabiltzea pentsatu da. Edozein adinezko erabiltzaileak erabiltzeko pentsatuta dago web orri hau. Ez nahi dugu azpergarri edo zerio itxura bat ematea, kirola dibertigarria izan daiteke pertsona azkorentzat, zeriotazun itxura ematen baldin bada, ez dator bat kirola egiteko zentzazinoarekin, saiatu nahi dugu pertsonek irteerak, toki naturaletara pasatzea, kirola egitea, paisai ederrak esperimentatzea, ... Kaltegabea (Inofensivo) den web orria zentzazinoa sortu nahi diogu erabiltzaileari. Baina, bezta ez nahi degu haur ("Infantil") itxura bat egitea. Daukagun ondorioa da puntu erdi batera eramatea.
 
-> **Gauza bat bisualki erakargarria izateko, atzegina izan behar da eta garbia. Koloreekin, testuekin, edukiarekin eta itxurarekin apaindu behar da web orri guztia marrazki bat balitz bezala.**
+
+**Gauza bat bisualki erakargarria izateko, atzegina izan behar da eta garbia. Koloreekin, testuekin, edukiarekin eta itxurarekin apaindu behar da web orri guztia marrazki bat balitz bezala.**
 
 **Gure kasuan, hainbat kolore bizidun erabiltzea pentsatu dugu,** zergatik natura, animaliak, planeta eta entorno guztiak bizirik daude eta kolore azkoz osatuta daude, azkenean, kirola bizitza da, **gizakiok historio bat sortzen dugu ibiltzen dugunean.** Batzutan bakarrik eraikiko ditugu eta beste batzutan konpainian, baina geldik egonda ez dira historia berriak sortuko. Teknologia berri askok geroz eta lausoagoak ("vagos") egiten hari gaitu, gure helburua da teknologiari erabilera on bat ematea laguntzeko toki berrietara heltzera, entretenimendua planetan sortu ahal izatea pantaila baten ordez.
+
