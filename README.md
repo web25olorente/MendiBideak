@@ -55,10 +55,13 @@ Hemen izan den idea izan da erabiltzea aplikazio hau ibilbidea markatzea, ondore
 
 Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria bero edo zer egingo duen , 
 
+---
+
 ## 3. NABIGAZIO MAPA + 4. KROKISA:
-[Krokisa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
+[Krokisa + Nabigazio Mapa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
 
 ---
+
 ## 4. ESTILO GIDA:
 - **Koloreak.**
 - **Tipografia.**
