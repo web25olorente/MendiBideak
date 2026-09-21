@@ -46,7 +46,17 @@ Elementuen arteko marginak, tarteak, banaketak, ... detaile txikiekin ere emaitz
 Hemen izan den idea izan da erabiltzea aplikazio hau ibilbidea markatzea, ondoren ibilbidearen esteka sortzeko eta gure aplikazioan `botoi` bati sakatuz gero eramateko zuzenean eta ikusi ahal izateko ze ibilbide, nundik pasatu behar den eta ... ikusteko erabiltzaileak.
 > Ideia bezala dago, agian ez da implementatzen.
 
+---
 
+# ERABILTZAILE MOTA (USER PROFILA)
+**Gauza bat bisualki erakargarria izateko, atzegina izan behar da eta garbia. Koloreekin, testuekin, edukiarekin eta itxurarekin apaindu behar da web orri guztia marrazki bat balitz bezala.**
+
+**Gure kasuan, hainbat kolore bizidun erabiltzea pentsatu dugu,** zergatik natura, animaliak, planeta eta entorno guztiak bizirik daude eta kolore azkoz osatuta daude, azkenean, kirola bizitza da, **gizakiok historio bat sortzen dugu ibiltzen dugunean.** Batzutan bakarrik eraikiko ditugu eta beste batzutan konpainian, baina geldik egonda ez dira historia berriak sortuko. Teknologia berri askok geroz eta lausoagoak ("vagos") egiten hari gaitu, gure helburua da teknologiari erabilera on bat ematea laguntzeko toki berrietara heltzera, entretenimendua planetan sortu ahal izatea pantaila baten ordez.
+
+Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria bero edo zer egingo duen , 
+
+# NABIGAZIO MAPA + KROKISA
+[Krokisa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
 
 ---
 # Estilo Gida
@@ -64,10 +74,3 @@ Zabalgarri-menua agertzen denean, zabalgarri-menu atzeko edukia; web orria, hau 
 Behin azalduta zabalgarri-menuko atzeko aldea nola izango den, zentratuko gara zabalgarri menuan. Honek **kolore gradianteak** edukiko ditu. Zabalgarri menua `Div` handi bat izango da, nun beste 3 `Div` edukiko ditu haren barruan. `Div` nagusiak kolore gradiante gris  izango da, **konkretuki zilarra kolorezkoa izango da.** Barruko hiru `Div`-ak **kolore gradiante hori argiak** edukiko ditu. Hiru `Div`-en barruan orri desberdinetara juteko `botoi-estekak` edukiko ditu, nun denak **atzeko kolore zuriak** eukiko dituzte, salbu erabiltzaileak bertan dagoen orriko `botoi-esteka`, zein **beltz kolorezkoa izango da** bisualki esateko orri horretan dagoela. `Div` -en izenburuak letra beltz edo zuriak izango dira. Testeatuko da ea bietatik zein geratzen den hobeto, baina azalduko koloreekin, balitekeena kolore beltza erabiltzea kontrastearengatik, hobeto irakurri ahal izateko. Azkenik, `Div` nagusi barruan, hiru `Div`-en azpiko aldean botoi biribil bat egongo da zabalgarri menua izkutu egingo duena.
 
 Web orriak edukiko duen tipografia aldetik, **letra biribildunak** erabiltzea pentsatu da. Edozein adinezko erabiltzaileak erabiltzeko pentsatuta dago web orri hau. Ez nahi dugu azpergarri edo zerio itxura bat ematea, kirola dibertigarria izan daiteke pertsona azkorentzat, zeriotazun itxura ematen baldin bada, ez dator bat kirola egiteko zentzazinoarekin, saiatu nahi dugu pertsonek irteerak, toki naturaletara pasatzea, kirola egitea, paisai ederrak esperimentatzea, ... Kaltegabea (Inofensivo) den web orria zentzazinoa sortu nahi diogu erabiltzaileari. Baina, bezta ez nahi degu haur ("Infantil") itxura bat egitea. Daukagun ondorioa da puntu erdi batera eramatea.
-
-
-**Gauza bat bisualki erakargarria izateko, atzegina izan behar da eta garbia. Koloreekin, testuekin, edukiarekin eta itxurarekin apaindu behar da web orri guztia marrazki bat balitz bezala.**
-
-**Gure kasuan, hainbat kolore bizidun erabiltzea pentsatu dugu,** zergatik natura, animaliak, planeta eta entorno guztiak bizirik daude eta kolore azkoz osatuta daude, azkenean, kirola bizitza da, **gizakiok historio bat sortzen dugu ibiltzen dugunean.** Batzutan bakarrik eraikiko ditugu eta beste batzutan konpainian, baina geldik egonda ez dira historia berriak sortuko. Teknologia berri askok geroz eta lausoagoak ("vagos") egiten hari gaitu, gure helburua da teknologiari erabilera on bat ematea laguntzeko toki berrietara heltzera, entretenimendua planetan sortu ahal izatea pantaila baten ordez.
-
-Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria bero edo zer egingo duen , 
