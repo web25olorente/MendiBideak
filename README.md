@@ -53,7 +53,7 @@ Hemen izan den idea izan da erabiltzea aplikazio hau ibilbidea markatzea, ondore
 
 **Gure kasuan, hainbat kolore bizidun erabiltzea pentsatu dugu,** zergatik natura, animaliak, planeta eta entorno guztiak bizirik daude eta kolore azkoz osatuta daude, azkenean, kirola bizitza da, **gizakiok historio bat sortzen dugu ibiltzen dugunean.** Batzutan bakarrik eraikiko ditugu eta beste batzutan konpainian, baina geldik egonda ez dira historia berriak sortuko. Teknologia berri askok geroz eta lausoagoak ("vagos") egiten hari gaitu, gure helburua da teknologiari erabilera on bat ematea laguntzeko toki berrietara heltzera, entretenimendua planetan sortu ahal izatea pantaila baten ordez.
 
-Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria bero edo zer egingo duen , 
+Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria / bero edo zer egingo duen azaltzea garrantsitzua da, eta hainbat informazio gehiago ere.
 
 ---
 
@@ -69,11 +69,11 @@ Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta eraku
 - **Botoiak.**
 - **Irudiak.**
 
-### Koloreak:
+Web orriak edukiko duen tipografia aldetik, **letra biribildunak** erabiltzea pentsatu da. Edozein adinezko erabiltzaileak erabiltzeko pentsatuta dago web orri hau. Ez nahi dugu azpergarri edo zerio itxura bat ematea, kirola dibertigarria izan daiteke pertsona azkorentzat, zeriotazun itxura ematen baldin bada, ez dator bat kirola egiteko zentzazinoarekin, saiatu nahi dugu pertsonek irteerak, toki naturaletara pasatzea, kirola egitea, paisai ederrak esperimentatzea, ... Kaltegabea (Inofensivo) den web orria zentzazinoa sortu nahi diogu erabiltzaileari. Baina, bezta ez nahi degu haur ("Infantil") itxura bat egitea. Daukagun ondorioa da puntu erdi batera eramatea.
+
 Erabakita dago ze kolore erabili nahi den zabalgarri-menuan (Menú Desplegable). Botoi bat egongo da zabalgarri - menua erakutsiko duena. **Botoi hori kolorez aldatuko da bisualki esateko kurtsorea (El cursor) zabalgarri-menuaren botoiaren gainean dagoela.**
 Zabalgarri-menua agertzen denean, zabalgarri-menu atzeko edukia; web orria, hau da, atzeko alde guztia, nun orria ikusi jarraitu ahal izango den, **itzal beltz-garden bat eukiko du** (Sombra negra semi-transparente).
 > Gazteleraz esplikatuko dut hobeto ulertzeko: El menú desplegable utilizará colores gradientes. La página o lo que se pueda apreciar de ella de fondo, que quedará atrás del menú desplegable, contendrá una sombra negra semi transparente.
 
 Behin azalduta zabalgarri-menuko atzeko aldea nola izango den, zentratuko gara zabalgarri menuan. Honek **kolore gradianteak** edukiko ditu. Zabalgarri menua `Div` handi bat izango da, nun beste 3 `Div` edukiko ditu haren barruan. `Div` nagusiak kolore gradiante gris  izango da, **konkretuki zilarra kolorezkoa izango da.** Barruko hiru `Div`-ak **kolore gradiante hori argiak** edukiko ditu. Hiru `Div`-en barruan orri desberdinetara juteko `botoi-estekak` edukiko ditu, nun denak **atzeko kolore zuriak** eukiko dituzte, salbu erabiltzaileak bertan dagoen orriko `botoi-esteka`, zein **beltz kolorezkoa izango da** bisualki esateko orri horretan dagoela. `Div` -en izenburuak letra beltz edo zuriak izango dira. Testeatuko da ea bietatik zein geratzen den hobeto, baina azalduko koloreekin, balitekeena kolore beltza erabiltzea kontrastearengatik, hobeto irakurri ahal izateko. Azkenik, `Div` nagusi barruan, hiru `Div`-en azpiko aldean botoi biribil bat egongo da zabalgarri menua izkutu egingo duena.
 
-Web orriak edukiko duen tipografia aldetik, **letra biribildunak** erabiltzea pentsatu da. Edozein adinezko erabiltzaileak erabiltzeko pentsatuta dago web orri hau. Ez nahi dugu azpergarri edo zerio itxura bat ematea, kirola dibertigarria izan daiteke pertsona azkorentzat, zeriotazun itxura ematen baldin bada, ez dator bat kirola egiteko zentzazinoarekin, saiatu nahi dugu pertsonek irteerak, toki naturaletara pasatzea, kirola egitea, paisai ederrak esperimentatzea, ... Kaltegabea (Inofensivo) den web orria zentzazinoa sortu nahi diogu erabiltzaileari. Baina, bezta ez nahi degu haur ("Infantil") itxura bat egitea. Daukagun ondorioa da puntu erdi batera eramatea.
