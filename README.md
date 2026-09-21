@@ -48,25 +48,25 @@ Hemen izan den idea izan da erabiltzea aplikazio hau ibilbidea markatzea, ondore
 
 ---
 
-# ERABILTZAILE MOTA (USER PROFILA)
+# 2. ERABILTZAILE MOTA (USER PROFILA)
 **Gauza bat bisualki erakargarria izateko, atzegina izan behar da eta garbia. Koloreekin, testuekin, edukiarekin eta itxurarekin apaindu behar da web orri guztia marrazki bat balitz bezala.**
 
 **Gure kasuan, hainbat kolore bizidun erabiltzea pentsatu dugu,** zergatik natura, animaliak, planeta eta entorno guztiak bizirik daude eta kolore azkoz osatuta daude, azkenean, kirola bizitza da, **gizakiok historio bat sortzen dugu ibiltzen dugunean.** Batzutan bakarrik eraikiko ditugu eta beste batzutan konpainian, baina geldik egonda ez dira historia berriak sortuko. Teknologia berri askok geroz eta lausoagoak ("vagos") egiten hari gaitu, gure helburua da teknologiari erabilera on bat ematea laguntzeko toki berrietara heltzera, entretenimendua planetan sortu ahal izatea pantaila baten ordez.
 
 Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria bero edo zer egingo duen , 
 
-# NABIGAZIO MAPA + KROKISA
+## 3. NABIGAZIO MAPA + 4. KROKISA
 [Krokisa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
 
 ---
-# Estilo Gida
+## 4. Estilo Gida
 - **Koloreak.**
 - **Tipografia.**
 - **Ikonoak.**
 - **Botoiak.**
 - **Irudiak.**
 
-## Koloreak:
+### Koloreak:
 Erabakita dago ze kolore erabili nahi den zabalgarri-menuan (Menú Desplegable). Botoi bat egongo da zabalgarri - menua erakutsiko duena. **Botoi hori kolorez aldatuko da bisualki esateko kurtsorea (El cursor) zabalgarri-menuaren botoiaren gainean dagoela.**
 Zabalgarri-menua agertzen denean, zabalgarri-menu atzeko edukia; web orria, hau da, atzeko alde guztia, nun orria ikusi jarraitu ahal izango den, **itzal beltz-garden bat eukiko du** (Sombra negra semi-transparente).
 > Gazteleraz esplikatuko dut hobeto ulertzeko: El menú desplegable utilizará colores gradientes. La página o lo que se pueda apreciar de ella de fondo, que quedará atrás del menú desplegable, contendrá una sombra negra semi transparente.
