@@ -79,4 +79,5 @@ Behin azalduta zabalgarri-menuko atzeko aldea nola izango den, zentratuko gara z
 
 Orri nagusiak Euskal Herriko mapa bat edukiko du, nun 7 probintziak kolore desberdinak izango ditu. `Botoi` bezala funtzionatuko du mapa hau, adibidez, "Gipuzkoa"-ko lurraldean sakatzerakoan, bideratuko zaitu "Gipuzkoa"n dauden mendi eta bidezorretara. Aldiz, "Bizkaia"-ko lurraldean klikatzen baldin badegu, "Bizkaia"-ko mendi eta bidezorrak erakutsiko ditu. Eta horrela lurralde guztiekin. Honek zailkapen ordenatu eta garbi bat sortuko du.
 > Azkenean, aurreikusten dugu ohikoena dela lurralde bertako mendi eta bidezorretatik ibiliko direla erabiltzaileak, oso arraroa da "Lapurdi"n dagoen pertsona batek, adibidez, "Araba"-raino jutea. Gutxi gora bera 2 egun beharko zituen. Gehienez, alboan dagoen lurralderaino jun izango dira, adibidez "Zuberoa" eta "Nafarroa behera" alboan daudela, han dauden mendi edo bidezorra asko egongo dira nun pertsonek zeharkatzeko asmoa izango dute.
+
 Baina edozein kasutan berdin dio lurraldeen arteko distantzia zein den, "Zuberoa"-tik "Araba"-raino jun nahi baldin badu pertsona batek, aukera izango du Maps-eko `mapak` erabiliko ditugulako.
