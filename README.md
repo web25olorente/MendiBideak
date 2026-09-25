@@ -17,7 +17,7 @@ Euskal Herriko Mendi eta Bidezidorrak.
   - ( 6.3 ) [Ikonoak](#6.3-ikonoak)
   - ( 6.4 ) [Botoiak](#6.4-botoiak)
   - ( 6.5 ) [Irudiak](#6.5-irudiak)
-
+---
 
 ## **1. IKERKETA:**
 **WikiLoc**, **Outdooractive: Senderismo** eta noski, **Google Maps** dira gaur egunean diren sektore honetako web edo aplikaziorik erabilienetarikoenak eta oso ezagunak. Eta azkenean, asko laguntzen dute gure egunean zehar.
