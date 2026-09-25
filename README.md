@@ -1,6 +1,24 @@
 # MendiBideak
 Euskal Herriko Mendi eta Bidezidorrak.
 
+
+## AURKIBIDEA:
+1. [Sarrera](#1-sarrera)
+2. [Brenchmark](#2-brenchmark)
+  2.1 [Ondorioak](#2.1-ondorioak)
+3. [User Profila](#3-user-profila)
+4. [Krokisa](#4-krokisa)
+   4.1 [Mobila](#4.1-mobila)
+   4.2 [Ordenagailua](#4.2-ordenagailua)
+5. [Nabigazio Mapa](#5-nabigazio-mapa)
+6. [Estilo gida](#6-estilo-gida)
+   6.1 [Koloreak](#6.1-koloreak)
+   6.2 [Tipografia](#6.2-tipografia)
+   6.3 [Ikonoak](#6.3-ikonoak)
+   6.4 [Botoiak](#6.4-botoiak)
+   6.5 [Irudiak](#6.5-irudiak)
+
+
 ## **1. IKERKETA:**
 **WikiLoc**, **Outdooractive: Senderismo** eta noski, **Google Maps** dira gaur egunean diren sektore honetako web edo aplikaziorik erabilienetarikoenak eta oso ezagunak. Eta azkenean, asko laguntzen dute gure egunean zehar.
 
