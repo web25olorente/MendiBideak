@@ -23,6 +23,8 @@ Euskal Herriko Mendi eta Bidezidorrak.
 # 0. Ideiak:
 > Literalki sekzio hau da aipatzeko okurritutako ideiak esateko, nun originalak izateko kreatibitatea erabili da.
 
+⚠️ ¡Acuérdate de traducirlo luego todo, que esto luego va para nota!
+
 - Creo que si el menú desplegable, en vez de hacerlo por botones, si lo hago con un mapa de Euskal Herria en donde al pulsar dentro del territorio de ... por ejemplo, Vizcaya, me lleve a la página en donde salgan los montes y rutas que haya en Vizcaya. Y lo mismo para cada territorio. A parte de servir como una especie de filtrado, porque solo se mostrarán los montes y tal del territorio concreto, es una forma original de ir de una página a otra.
 
 - En la parte superior se mostrará el territorio que se ha elegido junto con un mapa con el color del territorio seleccionado (el territorio seleccioado tendrá el color que tenga en el mapa del menú desplegable, mientras que los demás territorios estarán de color gris), para que el usuario vea de forma visual el territorio que ha seleccionado.
