@@ -3,6 +3,7 @@ Euskal Herriko Mendi eta Bidezidorrak.
 
 
 ## AURKIBIDEA:
+- ( 0. ) [Oxel](#0-ideiak)
 - ( 1. ) [Sarrera](#1-sarrera)
 - ( 2. ) [Brenchmark](#2-brenchmark)
   - ( 2.1 ) [Ondorioak](#2.1-ondorioak)
@@ -18,6 +19,27 @@ Euskal Herriko Mendi eta Bidezidorrak.
   - ( 6.4 ) [Botoiak](#6.4-botoiak)
   - ( 6.5 ) [Irudiak](#6.5-irudiak)
 ---
+
+# 0. Ideiak:
+> Literalki sekzio hau da aipatzeko okurritutako ideiak esateko, nun originalak izateko kreatibitatea erabili da.
+
+- Creo que si el menú desplegable, en vez de hacerlo por botones, si lo hago con un mapa de Euskal Herria en donde al pulsar dentro del territorio de ... por ejemplo, Vizcaya, me lleve a la página en donde salgan los montes y rutas que haya en Vizcaya. Y lo mismo para cada territorio. A parte de servir como una especie de filtrado, porque solo se mostrarán los montes y tal del territorio concreto, es una forma original de ir de una página a otra.
+
+- En la parte superior se mostrará el territorio que se ha elegido junto con un mapa con el color del territorio seleccionado (el territorio seleccioado tendrá el color que tenga en el mapa del menú desplegable, mientras que los demás territorios estarán de color gris), para que el usuario vea de forma visual el territorio que ha seleccionado.
+
+- Debajo de eso, me gustaría incluir dos botones redondeados que funcionarán como un filtro fácil para el usuario. El botón tendrá un icono representativo y un texto; adibidez: "⛰️ Mendiak" y al lado de ese botón pues el del otro. Los botones estarán centrados en la pantalla, uno al lado del otro.
+
+- Habrá un sistema de puntuación para incentivar a los usuarios a completar diferentes etapas. Y además, habrá un sistema de puntuación extra si completa algunos desafíos.
+> _Por ejemplo: Completa la ruta en menos de 1 hora y 15 minutos. Si lo hace, se llevará unos puntos extra como recompensa._
+Esto para "motivar" o incentivar de alguna manera a la gente para que haga este tipo de rutas. 
+* En cada `div`, en la esquina superior derecha, habrá un banderín de etapa, que indicará si completo o no la ruta; si la completo, habrá una banderita roja, si no, estarán los bordes de la banderita para que el usuario vea que allí va una bandera, pero que no sale la banderita porque no completo la ruta.
+➕ Abajo de la banderita se señalará unos puntos que otorgará el completar dicha ruta.
+Primero los puntos por completar la ruta, y otros puntos extra más si se completa el desafío del tiempo.
+
+Ésta idea se me ocurrió porque habrá mucha gente que le dé pereza ir a un sitio sin algo a cambio, entonces, para incentivar de alguna manera al usuario, pondremos un sistema de puntuación.
+
+- Aprovechando el sistema de puntuación, podría estar interesante hacer un ranking de usuarios con más puntos y tal, porque habrá gente medianamente competitiva, o que le guste un sistema así y estar en lo alto de la clasificación, y el mero hecho de que puedas ver en qué posición estás y a cuantos puntos estás del usuario que tengas delante en la clasificación también podría motivarte para hacer una ruta, completarlo y subir posiciones en el rankinkg.
+
 
 ## **1. IKERKETA:**
 **WikiLoc**, **Outdooractive: Senderismo** eta noski, **Google Maps** dira gaur egunean diren sektore honetako web edo aplikaziorik erabilienetarikoenak eta oso ezagunak. Eta azkenean, asko laguntzen dute gure egunean zehar.
