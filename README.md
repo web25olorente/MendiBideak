@@ -1,130 +1,239 @@
 # MendiBideak
-Euskal Herriko Mendi eta Bidezidorrak.
 
-Mendi-ibilbideak bilatzeko, kargatzeko eta deskargatzeko ataria, zailtasunaren, kliaren eta denboraren arabera antolatuta.
+## Euskal Herriko Mendi eta Bidezidorrak
 
-_Ezaugarri nagusiak:_ Mapa-interfaze zabala, altuera-profilak, erabiltzaileen balorazioak eta eguraldiaren widget-a.
+Mendi-ibilbideak bilatzeko, kargatzeko eta deskargatzeko ataria, zailtasunaren, klimaren eta iraupenaren arabera antolatuta.
 
-## AURKIBIDEA:
-- ( 0. ) [Oxel](#0-ideiak)
-- ( 1. ) [Sarrera](#1-sarrera)
-- ( 2. ) [Brenchmark](#2-brenchmark)
-  - ( 2.1 ) [Ondorioak](#2.1-ondorioak)
-- ( 3. ) [User Profila](#3-user-profila)
-- ( 4. ) [Krokisa](#4-krokisa)
-  - ( 4.1 ) [Mobila](#4.1-mobila)
-  - ( 4.2 ) [Ordenagailua](#4.2-ordenagailua)
-- ( 5. ) [Nabigazio Mapa](#5-nabigazio-mapa)
-- ( 6. ) [Estilo gida](#6-estilo-gida)
-  - ( 6.1 ) [Koloreak](#6.1-koloreak)
-  - ( 6.2 ) [Tipografia](#6.2-tipografia)
-  - ( 6.3 ) [Ikonoak](#6.3-ikonoak)
-  - ( 6.4 ) [Botoiak](#6.4-botoiak)
-  - ( 6.5 ) [Irudiak](#6.5-irudiak)
+*Ezaugarri nagusiak:* mapa-interfaze zabala, altuera-profilak, erabiltzaileen balorazioak eta eguraldiaren widget-a.
+
 ---
 
-# 0. Ideiak:
-> Literalki sekzio hau da aipatzeko okurritutako ideiak esateko, nun originalak izateko kreatibitatea erabili da.
+## AURKIBIDEA
 
-⚠️ ¡Acuérdate de traducirlo luego todo, que esto luego va para nota!
+* ( 1. ) [Sarrera](#1-sarrera)
+* ( 2. ) [Benchmark](#2-benchmark)
 
-- Creo que si el menú desplegable, en vez de hacerlo por botones, si lo hago con un mapa de Euskal Herria en donde al pulsar dentro del territorio de ... por ejemplo, Vizcaya, me lleve a la página en donde salgan los montes y rutas que haya en Vizcaya. Y lo mismo para cada territorio. A parte de servir como una especie de filtrado, porque solo se mostrarán los montes y tal del territorio concreto, es una forma original de ir de una página a otra.
+  * ( 2.1 ) [Ondorioak](#21-ondorioak)
+* ( 3. ) [User Profila](#3-user-profila)
+* ( 4. ) [Krokisa](#4-krokisa)
 
-- En la parte superior se mostrará el territorio que se ha elegido junto con un mapa con el color del territorio seleccionado (el territorio seleccioado tendrá el color que tenga en el mapa del menú desplegable, mientras que los demás territorios estarán de color gris), para que el usuario vea de forma visual el territorio que ha seleccionado.
+  * ( 4.1 ) [Mobila](#41-mobila)
+  * ( 4.2 ) [Ordenagailua](#42-ordenagailua)
+* ( 5. ) [Nabigazio Mapa](#5-nabigazio-mapa)
+* ( 6. ) [Estilo gida](#6-estilo-gida)
 
-- Debajo de eso, me gustaría incluir dos botones redondeados que funcionarán como un filtro fácil para el usuario. El botón tendrá un icono representativo y un texto; adibidez: "⛰️ Mendiak" y al lado de ese botón pues el del otro. Los botones estarán centrados en la pantalla, uno al lado del otro.
+  * ( 6.1 ) [Koloreak](#61-koloreak)
+  * ( 6.2 ) [Tipografia](#62-tipografia)
+  * ( 6.3 ) [Ikonoak](#63-ikonoak)
+  * ( 6.4 ) [Botoiak](#64-botoiak)
+  * ( 6.5 ) [Irudiak](#65-irudiak)
 
-- Habrá un sistema de puntuación para incentivar a los usuarios a completar diferentes etapas. Y además, habrá un sistema de puntuación extra si completa algunos desafíos.
-> _Por ejemplo: Completa la ruta en menos de 1 hora y 15 minutos. Si lo hace, se llevará unos puntos extra como recompensa._
-Esto para "motivar" o incentivar de alguna manera a la gente para que haga este tipo de rutas. 
-* En cada `div`, en la esquina superior derecha, habrá un banderín de etapa, que indicará si completo o no la ruta; si la completo, habrá una banderita roja, si no, estarán los bordes de la banderita para que el usuario vea que allí va una bandera, pero que no sale la banderita porque no completo la ruta.
-➕ Abajo de la banderita se señalará unos puntos que otorgará el completar dicha ruta.
-Primero los puntos por completar la ruta, y otros puntos extra más si se completa el desafío del tiempo.
+---
 
-Ésta idea se me ocurrió porque habrá mucha gente que le dé pereza ir a un sitio sin algo a cambio, entonces, para incentivar de alguna manera al usuario, pondremos un sistema de puntuación.
+# 1. Sarrera
 
-- Aprovechando el sistema de puntuación, podría estar interesante hacer un ranking de usuarios con más puntos y tal, porque habrá gente medianamente competitiva, o que le guste un sistema así y estar en lo alto de la clasificación, y el mero hecho de que puedas ver en qué posición estás y a cuantos puntos estás del usuario que tengas delante en la clasificación también podría motivarte para hacer una ruta, completarlo y subir posiciones en el rankinkg.
+MendiBideak Euskal Herriko mendi eta bidezidorrei buruzko informazioa eskaintzeko diseinatutako web-ataria da. Webgunearen helburu nagusia erabiltzaileei mendi-ibilbideak modu erraz, argi eta bisualean aurkitzeko aukera eskaintzea da.
 
+Webguneak ibilbideak hainbat irizpideren arabera antolatzea eta bilatzea ahalbidetuko du, besteak beste, zailtasunaren, klimaren eta ibilbidearen iraupenaren arabera. Horrez gain, ibilbide bakoitzari buruzko informazio osagarria eskaintzea aurreikusten da, hala nola distantzia, desnibela, zailtasun-maila, eguraldia, argazkiak eta deskribapenak.
 
-## **1. IKERKETA:**
-**WikiLoc**, **Outdooractive: Senderismo** eta noski, **Google Maps** dira gaur egunean diren sektore honetako web edo aplikaziorik erabilienetarikoenak eta oso ezagunak. Eta azkenean, asko laguntzen dute gure egunean zehar.
+Webgunearen beste ezaugarri nagusietako bat Euskal Herriko lurraldeen araberako nabigazioa izango da. Euskal Herriko mapa interaktibo baten bidez, erabiltzaileak zazpi lurraldeetako bat hautatu ahal izango du, eta hautatutako lurraldean dauden mendi eta bidezidorrei buruzko informazioa eskuratuko du.
 
-Kirola egitea oso garrantzitzua da. Mendiko irteerak edo edozein bidezidorretik jutea, oinezien, korrikan, bizikletarekin edo nahi denarekin, dibertigarria izateaz gain, osasuntzua da.
-Web orri hau pentsatuta egongo da nagusiki 16 urte gorako duten pertsonendako, nagusiki mendizaleak diren pertsonei, ibiltzea gustoko duten pertsonek edo irteeraren bat egitea nahi duten jendearentzat sortuko da.
+Diseinuaren helburua informazio ugari eskaintzea da, baina informazioa modu bisual eta ulerterrazean aurkeztea, erabiltzaileak behar duen informazioa azkar aurkitu ahal izan dezan.
 
-Horretarako idei hugari bilatzen egon gara emaitz bikain bat lortu ahal izateko. Zentratuko gara ointxe sektore honetan dauden produkturik ezagunenetarikoenak.
+---
 
+# 2. Benchmark
 
-### **WikiLoc**
+MendiBideak proiektuaren diseinu eta funtzionalitate nagusiak definitzeko, antzeko zerbitzuak eskaintzen dituzten hainbat webgune eta aplikazio aztertu dira. Azterketa horretan, batez ere, WikiLoc, Outdooractive eta Google Maps hartu dira erreferentziatzat.
+
+## WikiLoc
+
 ![WikiLoc](https://viendoosdesdearriba.wordpress.com/wp-content/uploads/2018/10/wikiloc2.png?w=256)
-- **Erabilera nagusia:** Aire zabaleko kirol-ibilbideak aurkitu eta partekatzea.
-- **Funtzioak:** Mundu osoko erabiltzaileek igotako senderismo, txirrindularitza eta beste hainbat diziplinatako mapak eskaintzen ditu.
-- **Abantailak:** GPS bidezko nabigazioa ahalbidetzen du, bidean galdu gabe jarraitu ahal izateko.
+
+* **Erabilera nagusia:** aire zabaleko kirol-ibilbideak aurkitzea eta partekatzea.
+* **Funtzioak:** mundu osoko erabiltzaileek igotako senderismo, txirrindularitza eta beste hainbat diziplinatako ibilbideak eskaintzen ditu.
+* **Abantailak:** GPS bidezko nabigazioa ahalbidetzen du, erabiltzaileari ibilbidean zehar orientatzen laguntzeko.
 
 [WikiLoc](https://eu.wikiloc.com/)
 
-🧠 Web orri honetan oinarrituz idei asko okurritu zaigu.
-💡 *Adibidez:* Ibilbide bakoitza `div` baten barruan sartzea.
-- Distantzia, Desnibel -a eta zailtasuna sartzea argi eta garbi.
-  - Hemen klima ere agertzea pentsatu da.
-- Zailtasuna 3 kolore desberdinetan bisualki lagungarria izateko.
-- Argazki batzuk ipini.
-- Deskripzioren bat.
-  - Eta agian Google Maps -en ibilbidearen `esteka` ipiniko da `botoi` baten barruan.
+WikiLoc aztertuta, MendiBideak proiekturako hainbat ideia hartu dira erreferentziatzat.
 
-### **Outdooractive: Senderismo**
+Ibilbide bakoitza `div` baten barruan antolatzea aurreikusten da. Ibilbide bakoitzean informazio nagusia modu argian erakutsiko da, besteak beste:
+
+* Distantzia.
+* Desnibela.
+* Zailtasun-maila.
+* Klimari edo eguraldiari buruzko informazioa.
+* Ibilbidearen argazkiak.
+* Deskribapen bat.
+
+Zailtasun-maila koloreen bidez ere bereiztea aurreikusten da, erabiltzaileak informazioa begirada batean identifikatu ahal izan dezan.
+
+Horrez gain, ibilbidearekin lotutako Google Maps-eko esteka botoi baten bidez eskaintzea aztertzen da.
+
+---
+
+## Outdooractive
+
 ![Outdooractive](https://play-lh.googleusercontent.com/dDv0dOUwvl8aWd7BzTq1PxG2QOBmshEi37HHvUneuVelfLL_8yXUa9qfDG2exhovHsqmU0Sy_IjFfifMz4_kCw=s0-br30)
-- **Erabilera nagusia:** Mendi eta outdoor jardueren plangintza zehatza egitea.
-- **Funtzioak:** Kalitate handiko mapa topografikoak eta ibilbide gidatuak eskaintzen ditu.
-- **Abantailak:** Segurtasunari eta eguraldiari buruzko informazio eguneratua ematen du, mendiko esperientziak profesionaltasunez prestatzeko.
+
+* **Erabilera nagusia:** mendi eta outdoor jardueren plangintza egitea.
+* **Funtzioak:** mapa topografikoak eta ibilbide gidatuak eskaintzen ditu.
+* **Abantailak:** segurtasunari eta eguraldiari buruzko informazioa eskaintzen du, mendiko jarduerak hobeto prestatzeko.
+
 [Outdooractive](https://www.outdooractive.com)
-Bisualki elementuak oso txukun antolatuta daude, eta hori gure gustukoa izan da. Horregatik sahiatuko gara txukuntazun garbi eta erakargarri bat mantentzea.
-Elementuen arteko marginak, tarteak, banaketak, ... detaile txikiekin ere emaitz handiak izan daiteke.
 
-### **Google Maps**
+Outdooractive aztertzean, elementuen antolaketa bisuala hartu da erreferentziatzat. Informazioa modu txukunean eta ordenatuan aurkezteak erabiltzailearen esperientzia hobetzen du.
+
+Horregatik, MendiBideak proiektuan elementuen arteko marjinak, tarteak eta banaketa zaintzea aurreikusten da. Xehetasun txikiek interfaze garbiagoa eta erabilerrazagoa sortzen lagun dezakete.
+
+---
+
+## Google Maps
+
 ![Maps](https://cdn-icons-png.magnific.com/256/2642/2642502.png?semt=ais_white_label)
-- **Erabilera nagusia:** Munduko edozein lekutan nabigatzea eta lokalizazioak bilatzea.
-- **Funtzioak:** Garraiobide desberdinetarako (autoa, oinezkoak, garraio publikoa) ibilbiderik azkarrenak kalkulatzen ditu.
-- **Abantailak:** Negozioen informazioa, satelite bidezko irudiak eta denbora errealeko trafikoaren egoera erakusten ditu.
-[Maps](https://maps.google.com/?authuser=0)
 
-Hemen izan den idea izan da erabiltzea aplikazio hau ibilbidea markatzea, ondoren ibilbidearen esteka sortzeko eta gure aplikazioan `botoi` bati sakatuz gero eramateko zuzenean eta ikusi ahal izateko ze ibilbide, nundik pasatu behar den eta ... ikusteko erabiltzaileak.
-> Ideia bezala dago, agian ez da implementatzen.
+* **Erabilera nagusia:** kokapenak bilatzea eta leku batetik bestera nabigatzea.
+* **Funtzioak:** garraiobide desberdinetarako ibilbideak kalkulatzea.
+* **Abantailak:** mapak, satelite bidezko irudiak, kokapenen informazioa eta bestelako datuak eskaintzen ditu.
 
----
+[Google Maps](https://maps.google.com/?authuser=0)
 
-## 2. ERABILTZAILE MOTA (USER PROFILA):
-**Gauza bat bisualki erakargarria izateko, atzegina izan behar da eta garbia. Koloreekin, testuekin, edukiarekin eta itxurarekin apaindu behar da web orri guztia marrazki bat balitz bezala.**
+Google Maps proiektuan erabiltzea aurreikusten da ibilbideen kokapena eta sarbidea osatzeko. Ibilbide jakin batekin lotutako mapa edo ibilbide bat sortu ahal izango litzateke, eta MendiBideak webgunetik botoi baten bidez bertara sartzeko aukera eskaini.
 
-**Gure kasuan, hainbat kolore bizidun erabiltzea pentsatu dugu,** zergatik natura, animaliak, planeta eta entorno guztiak bizirik daude eta kolore azkoz osatuta daude, azkenean, kirola bizitza da, **gizakiok historio bat sortzen dugu ibiltzen dugunean.** Batzutan bakarrik eraikiko ditugu eta beste batzutan konpainian, baina geldik egonda ez dira historia berriak sortuko. Teknologia berri askok geroz eta lausoagoak ("vagos") egiten hari gaitu, gure helburua da teknologiari erabilera on bat ematea laguntzeko toki berrietara heltzera, entretenimendua planetan sortu ahal izatea pantaila baten ordez.
-
-Edukia aldetik informazio ugari eman behar da, eta bisualki dena laburtuta erakustea nahi da. Zailtazun maila testu bakar eta koloreez zehaztuta, klimatologia argi eta garbi, euria / bero edo zer egingo duen azaltzea garrantsitzua da, eta hainbat informazio gehiago ere.
+Funtzionalitate hau oraindik proposamen gisa dago, eta proiektuaren garapenean zehar erabakiko da azkenean ezarriko den ala ez.
 
 ---
 
-## 3. NABIGAZIO MAPA + 4. KROKISA:
+## 2.1 Ondorioak
+
+Benchmarkean aztertutako webguneetatik hainbat ideia eta diseinu-irizpide hartu dira MendiBideak proiekturako.
+
+Alde batetik, WikiLoc-en ibilbide bakoitzean informazio garrantzitsua modu argian erakusteko modua hartu da erreferentziatzat. Horren ondorioz, MendiBideak webgunean distantzia, desnibela, zailtasuna, klima, argazkiak eta deskribapena bezalako datuak modu ikusgarrian aurkeztea aurreikusten da.
+
+Bestetik, Outdooractive-ren interfazearen antolaketa eta garbitasuna hartu dira kontuan. Elementuen arteko espazioak eta informazioaren banaketa zaintzea izango da helburuetako bat.
+
+Azkenik, Google Maps ibilbideen kokapena eta nabigazioa osatzeko tresna gisa erabiltzea aztertzen da.
+
+Benchmarkaren ondorioz, MendiBideak proiektuak erreferentziazko webguneen hainbat ezaugarri erabilgarri hartu eta berezko proposamenekin konbinatuko ditu.
+
+---
+
+# 3. User Profila
+
+MendiBideak 16 urtetik gorako erabiltzaileentzat diseinatutako webgunea izango da. Bereziki, mendizaleei, oinez ibiltzea gustuko duten pertsonei eta naturan irteerak egin nahi dituzten erabiltzaileei zuzenduta egongo da.
+
+Webgunearen erabiltzaile-profilak ez du zertan mendizale esperientziaduna izan. Ibilbideak bilatu nahi dituen edo naturan jardueraren bat egin nahi duen edozein erabiltzailek informazioa modu erraz eta ulergarrian kontsultatu ahal izatea izango da helburua.
+
+Horregatik, interfazeak bisualki erakargarria eta garbia izan beharko du. Koloreek, testuek, irudiek eta bestelako elementu grafikoek elkarrekin funtzionatu beharko dute, informazioa gehiegi kargatu gabe.
+
+Webgunearen diseinuan hainbat kolore bizi erabiltzea aurreikusten da. Naturak, paisaiek eta kanpoko inguruneek kolore ugari dituztenez, kolore horiek proiektuaren izaerarekin lotzea bilatzen da.
+
+MendiBideak teknologiaren erabilera kanpoko jarduerekin lotzea bilatuko du. Helburua ez da erabiltzailea pantailaren aurrean denbora gehiago mantentzea, baizik eta teknologia erabiliz erabiltzaileari naturara ateratzen eta toki berriak ezagutzen laguntzea.
+
+Edukiari dagokionez, informazio ugari eskaintzea aurreikusten da, baina informazio hori modu laburtu eta bisualean aurkeztuko da. Zailtasun-maila testuaren eta koloreen bidez identifikatu ahal izango da, eta klimari edo eguraldiari buruzko informazioa ere modu argian erakutsiko da.
+
+---
+
+# 4. Krokisa
+
+MendiBideak proiektuaren lehen diseinu-proposamena krokis baten bidez definitu da. Krokisaren bidez, webgunearen egitura, elementuen kokapena eta erabiltzaileak izango duen nabigazioa aurrez planifikatu dira.
+
 [Krokisa + Nabigazio Mapa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
 
+## 4.1 Mobila
+
+Webgunearen diseinua gailu mugikorretara egokituko da. Pantaila txikiagoetan elementuen banaketa eta tamaina egokitzea aurreikusten da, erabiltzaileak edukia modu erosoan kontsultatu ahal izateko.
+
+## 4.2 Ordenagailua
+
+Ordenagailuko bertsioan pantaila-zabalera handiagoa aprobetxatuko da. Mapek, ibilbideen informazioak eta bestelako elementuek erabilgarri dagoen espazioa aprobetxatuko dute, baina interfazearen ordena eta irakurgarritasuna mantenduz.
+
 ---
 
-## 4. ESTILO GIDA:
-- **Koloreak.**
-- **Tipografia.**
-- **Ikonoak.**
-- **Botoiak.**
-- **Irudiak.**
+# 5. Nabigazio Mapa
 
-Web orriak edukiko duen tipografia aldetik, **letra biribildunak** erabiltzea pentsatu da. Edozein adinezko erabiltzaileak erabiltzeko pentsatuta dago web orri hau. Ez nahi dugu azpergarri edo zerio itxura bat ematea, kirola dibertigarria izan daiteke pertsona azkorentzat, zeriotazun itxura ematen baldin bada, ez dator bat kirola egiteko zentzazinoarekin, saiatu nahi dugu pertsonek irteerak, toki naturaletara pasatzea, kirola egitea, paisai ederrak esperimentatzea, ... Kaltegabea (Inofensivo) den web orria zentzazinoa sortu nahi diogu erabiltzaileari. Baina, bezta ez nahi degu haur ("Infantil") itxura bat egitea. Daukagun ondorioa da puntu erdi batera eramatea.
+MendiBideak webgunearen nabigazioa Euskal Herriko zazpi lurraldeen mapa interaktibo baten inguruan antolatzea aurreikusten da.
 
-Erabakita dago ze kolore erabili nahi den zabalgarri-menuan (Menú Desplegable). Botoi bat egongo da zabalgarri - menua erakutsiko duena. **Botoi hori kolorez aldatuko da bisualki esateko kurtsorea (El cursor) zabalgarri-menuaren botoiaren gainean dagoela.**
-Zabalgarri-menua agertzen denean, zabalgarri-menu atzeko edukia; web orria, hau da, atzeko alde guztia, nun orria ikusi jarraitu ahal izango den, **itzal beltz-garden bat eukiko du** (Sombra negra semi-transparente).
-> Gazteleraz esplikatuko dut hobeto ulertzeko: El menú desplegable utilizará colores gradientes. La página o lo que se pueda apreciar de ella de fondo, que quedará atrás del menú desplegable, contendrá una sombra negra semi transparente.
+Mapa webgunearen elementu nagusietako bat izango da, eta zazpi lurraldeak modu independentean hautatu ahal izango dira. Lurralde bakoitzak bere kolorea izango du.
 
-Behin azalduta zabalgarri-menuko atzeko aldea nola izango den, zentratuko gara zabalgarri menuan. Honek **kolore gradianteak** edukiko ditu. Zabalgarri menua `Div` handi bat izango da, nun beste 3 `Div` edukiko ditu haren barruan. `Div` nagusiak kolore gradiante gris  izango da, **konkretuki zilarra kolorezkoa izango da.** Barruko hiru `Div`-ak **kolore gradiante hori argiak** edukiko ditu. Hiru `Div`-en barruan orri desberdinetara juteko `botoi-estekak` edukiko ditu, nun denak **atzeko kolore zuriak** eukiko dituzte, salbu erabiltzaileak bertan dagoen orriko `botoi-esteka`, zein **beltz kolorezkoa izango da** bisualki esateko orri horretan dagoela. `Div` -en izenburuak letra beltz edo zuriak izango dira. Testeatuko da ea bietatik zein geratzen den hobeto, baina azalduko koloreekin, balitekeena kolore beltza erabiltzea kontrastearengatik, hobeto irakurri ahal izateko. Azkenik, `Div` nagusi barruan, hiru `Div`-en azpiko aldean botoi biribil bat egongo da zabalgarri menua izkutu egingo duena.
+Adibidez, erabiltzaileak Gipuzkoa hautatzen badu, Gipuzkoako mendi eta bidezidorrei buruzko informazioa erakutsiko da. Era berean, Bizkaia hautatuz gero, Bizkaiko ibilbideak erakutsiko dira, eta gauza bera gainerako lurraldeekin.
 
-![Euskal Herria](https://upload.wikimedia.org/wikipedia/commons/c/c6/Euskal_Herriko_mapa_koloreztatua.png?utm_source=eu.wikipedia.org&utm_campaign=index&utm_content=original)
+Sistema honek ibilbideak modu antolatuagoan aurkeztea ahalbidetuko du, erabiltzaileak bilaketa lurralde jakin batera mugatu ahal izango baitu.
 
-Orri nagusiak Euskal Herriko mapa bat edukiko du, nun 7 probintziak kolore desberdinak izango ditu. `Botoi` bezala funtzionatuko du mapa hau, adibidez, "Gipuzkoa"-ko lurraldean sakatzerakoan, bideratuko zaitu "Gipuzkoa"n dauden mendi eta bidezorretara. Aldiz, "Bizkaia"-ko lurraldean klikatzen baldin badegu, "Bizkaia"-ko mendi eta bidezorrak erakutsiko ditu. Eta horrela lurralde guztiekin. Honek zailkapen ordenatu eta garbi bat sortuko du.
-> Azkenean, aurreikusten dugu ohikoena dela lurralde bertako mendi eta bidezorretatik ibiliko direla erabiltzaileak, oso arraroa da "Lapurdi"n dagoen pertsona batek, adibidez, "Araba"-raino jutea. Gutxi gora bera 2 egun beharko zituen. Gehienez, alboan dagoen lurralderaino jun izango dira, adibidez "Zuberoa" eta "Nafarroa behera" alboan daudela, han dauden mendi edo bidezorra asko egongo dira nun pertsonek zeharkatzeko asmoa izango dute.
+Lurralde bat hautatzen denean, aukeratutako lurraldea berezko kolorearekin nabarmenduko da, eta gainerako lurraldeak gris kolorez erakutsiko dira. Horrela, erabiltzaileak modu bisualean identifikatu ahal izango du zein lurralde hautatu duen.
 
-Baina edozein kasutan berdin dio lurraldeen arteko distantzia zein den, "Zuberoa"-tik "Araba"-raino jun nahi baldin badu pertsona batek, aukera izango du Maps-eko `mapak` erabiliko ditugulako.
+Lurraldeen arteko distantzia ez da nabigazioaren muga izango. Erabiltzaileak beste lurralde bateko ibilbide bat bilatu nahi badu, mapa eta kanpoko nabigazio-tresnak erabiliz ibilbide horretara iristeko informazioa kontsultatu ahal izango du.
+
+---
+
+# 6. Estilo gida
+
+MendiBideak webgunearen estiloa definitzeko, koloreak, tipografia, ikonoak, botoiak eta irudiak zehaztuko dira.
+
+Diseinuaren helburu nagusia interfaze garbi, bisualki erakargarri eta erabilerraza sortzea izango da.
+
+Webgunearen izaerarekin bat egiteko, estiloak naturarekin, kirolarekin eta kanpoko jarduerekin lotutako elementu bisualak erabiliko ditu.
+
+Tipografiari dagokionez, letra biribilduak erabiltzea aurreikusten da. Aukeratutako tipografiak irakurgarria izan beharko du eta, aldi berean, webguneari izaera moderno eta atsegina eman beharko dio.
+
+Diseinuak ez du ez itxura gehiegi serioa ezta infantilizatua ere izan nahi. Bi muturren arteko oreka bilatuko da, webgunea adin eta esperientzia desberdinetako erabiltzaileentzat egokia izan dadin.
+
+---
+
+## 6.1 Koloreak
+
+Webgunearen kolore-paletan hainbat kolore bizi erabiltzea aurreikusten da, naturarekin eta kanpoko jarduerekin lotura sortzeko.
+
+Menu zabalgarrirako gradienteak erabiliko dira. Menuaren atzeko edukia zilar koloreko gradiente baten bidez definituko da, eta barruko elementuetan hori argiko gradienteak erabiltzea aurreikusten da.
+
+Euskal Herriko mapa interaktiboan zazpi lurraldeek kolore desberdinak izango dituzte. Kolore horiek lurralde bakoitza identifikatzeko erabiliko dira.
+
+Lurralde bat hautatzen denean, hautatutako lurraldeak berezko kolorea mantenduko du eta gainerako lurraldeak gris kolorez erakutsiko dira.
+
+---
+
+## 6.2 Tipografia
+
+Webgunearen tipografiak irakurgarria, modernoa eta atsegina izan beharko du.
+
+Letra biribilduak erabiltzea aurreikusten da, diseinuaren izaera hurbila eta dinamikoa indartzeko.
+
+Tipografiaren tamaina eta pisua elementuaren garrantziaren arabera egokituko dira. Izenburuak, azpitituluak eta testu arrunta hierarkia bisual argi baten bidez bereiziko dira.
+
+---
+
+## 6.3 Ikonoak
+
+Ikonoak informazioa azkar identifikatzeko erabiliko dira. Ikonoen diseinuak webgunearen estilo orokorrarekin bat egin beharko du.
+
+Adibidez, ibilbideen kategorietan mendiekin, eguraldiarekin, denborarekin edo bestelako informazioarekin lotutako ikonoak erabil daitezke.
+
+---
+
+## 6.4 Botoiak
+
+Botoiek forma biribildua izango dute, webgunearen estilo atsegin eta modernoarekin bat egiteko.
+
+Botoietan testua eta ikono adierazgarriak konbinatzea aurreikusten da. Adibidez:
+
+* ⛰️ Mendiak
+* 🥾 Bidezidorrak
+
+Botoi nagusiak erabiltzailearen eskura erraz egongo dira eta haien arteko banaketa argia izango da.
+
+Menu zabalgarria irekitzeko botoiak egoera bisual desberdina izango du kurtsorea haren gainean dagoenean. Horrela, erabiltzaileak botoia aktibatu daitekeela identifikatu ahal izango du.
+
+Menua zabaltzen denean, atzean dagoen webgunearen edukia geruza beltz erdi-gardenez estaliko da, erabiltzailearen arreta menuan kokatzeko.
+
+Menu zabalgarria ezkutatzeko, botoi biribil bat erabiliko da.
+
+---
+
+## 6.5 Irudiak
+
+Irudiak ibilbideak eta ingurune naturalak erakusteko erabiliko dira. Irudiek webgunearen izaera bisuala indartu eta erabiltzaileari ibilbide bakoitzaren ingurunea hobeto ezagutzeko aukera emango diote.
+
+Ibilbideen barruan argazkiak erabiltzea aurreikusten da, erabiltzaileak bisitatu aurretik ingurunea modu bisualean ezagutu ahal izateko.
+
+Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainerako elementuekin orekatuta egon beharko du.
