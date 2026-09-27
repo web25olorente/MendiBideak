@@ -188,7 +188,7 @@ Webgunearen kolore-paletan hainbat kolore bizi erabiltzea aurreikusten da, natur
 
 Gainera, 7 probintzietako orriak, kolore desberdinak izango dute, beraien artean desberdintzeko.
 
-Menu zabalgarrirako gradienteak erabiliko dira. Menuaren atzeko edukia zilar koloreko gradiente baten bidez definituko da, eta barruko elementuetan hori argiko gradienteak erabiltzea aurreikusten da.
+Menu zabalgarrirako gradienteak erabiliko dira. Menuaren atzeko edukia zilar koloreko gradiente baten bidez definituko da, eta haren barruan Euskal Herriko mapa interaktibo bat egongo da.
 
 Euskal Herriko mapa interaktiboan zazpi lurraldeek kolore desberdinak izango dituzte. Kolore horiek lurralde bakoitza identifikatzeko erabiliko dira.
 
