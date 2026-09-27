@@ -1,6 +1,9 @@
 # MendiBideak
 Euskal Herriko Mendi eta Bidezidorrak.
 
+Mendi-ibilbideak bilatzeko, kargatzeko eta deskargatzeko ataria, zailtasunaren, kliaren eta denboraren arabera antolatuta.
+
+_Ezaugarri nagusiak:_ Mapa-interfaze zabala, altuera-profilak, erabiltzaileen balorazioak eta eguraldiaren widget-a.
 
 ## AURKIBIDEA:
 - ( 0. ) [Oxel](#0-ideiak)
