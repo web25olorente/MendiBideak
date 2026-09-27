@@ -139,7 +139,8 @@ Edukiari dagokionez, informazio ugari eskaintzea aurreikusten da, baina informaz
 
 MendiBideak proiektuaren lehen diseinu-proposamena krokis baten bidez definitu da. Krokisaren bidez, webgunearen egitura, elementuen kokapena eta erabiltzaileak izango duen nabigazioa aurrez planifikatu dira.
 
-[Krokisa + Nabigazio Mapa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
+[Nabigazio Mapa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
+> 42 flecha jarri beharrean, taula bat sortu da adierazteko lurralde batetik bestera jun ahal izango dela adierazteko.
 
 ## 4.1 Mobila
 
