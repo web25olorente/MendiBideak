@@ -186,6 +186,8 @@ Diseinuak ez du ez itxura gehiegi serioa ezta infantilizatua ere izan nahi. Bi m
 
 Webgunearen kolore-paletan hainbat kolore bizi erabiltzea aurreikusten da, naturarekin eta kanpoko jarduerekin lotura sortzeko.
 
+Gainera, 7 probintzietako orriak, kolore desberdinak izango dute, beraien artean desberdintzeko.
+
 Menu zabalgarrirako gradienteak erabiliko dira. Menuaren atzeko edukia zilar koloreko gradiente baten bidez definituko da, eta barruko elementuetan hori argiko gradienteak erabiltzea aurreikusten da.
 
 Euskal Herriko mapa interaktiboan zazpi lurraldeek kolore desberdinak izango dituzte. Kolore horiek lurralde bakoitza identifikatzeko erabiliko dira.
