@@ -143,12 +143,12 @@ MendiBideak proiektuaren lehen diseinu-proposamena krokis baten bidez definitu d
 > 42 flecha jarri beharrean, taula bat sortu da adierazteko lurralde batetik bestera jun ahal izango dela adierazteko.
 
 ## 4.1 Mobila
-![Krokisa Mugikorrean](Irudiak/Krokisa_Mugikorrean_Menú Desplegable.png)
+![Krokisa Mugikorrean](Irudiak/Krokisa_Mugikorrean_Menú_Desplegable.png)
 
 Webgunearen diseinua gailu mugikorretara egokituko da. Pantaila txikiagoetan elementuen banaketa eta tamaina egokitzea aurreikusten da, erabiltzaileak edukia modu erosoan kontsultatu ahal izateko.
 
 ## 4.2 Ordenagailua
-![Krokisa Ordenagailuan](Irudiak/Krokisa_Ordenagailua_Menú Desplegable.png)
+![Krokisa Ordenagailuan](Irudiak/Krokisa_Ordenagailua_Menú_Desplegable.png)
 
 Ordenagailuko bertsioan pantaila-zabalera handiagoa aprobetxatuko da. Mapek, ibilbideen informazioak eta bestelako elementuek erabilgarri dagoen espazioa aprobetxatuko dute, baina interfazearen ordena eta irakurgarritasuna mantenduz.
 
