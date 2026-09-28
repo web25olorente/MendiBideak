@@ -148,7 +148,7 @@ MendiBideak proiektuaren lehen diseinu-proposamena krokis baten bidez definitu d
 Webgunearen diseinua gailu mugikorretara egokituko da. Pantaila txikiagoetan elementuen banaketa eta tamaina egokitzea aurreikusten da, erabiltzaileak edukia modu erosoan kontsultatu ahal izateko.
 
 ## 4.2 Ordenagailua
-![Krokisa Ordenagailuan](Irudiak/Krokisa_Ordenagailua_Menú_Desplegable.png)
+![Krokisa Ordenagailuan](Irudiak/Krokisa_Ordenagailuan_Menú_Desplegable.png)
 
 Ordenagailuko bertsioan pantaila-zabalera handiagoa aprobetxatuko da. Mapek, ibilbideen informazioak eta bestelako elementuek erabilgarri dagoen espazioa aprobetxatuko dute, baina interfazearen ordena eta irakurgarritasuna mantenduz.
 
