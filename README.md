@@ -198,6 +198,49 @@ Euskal Herriko mapa interaktiboan zazpi lurraldeek kolore desberdinak izango dit
 
 Lurralde bat hautatzen denean, hautatutako lurraldeak berezko kolorea mantenduko du eta gainerako lurraldeak gris kolorez erakutsiko dira.
 
+
+**BIZKAIA:**
+- #a163b1ff
+ - #a163b13f
+- 
+- #ffffffff
+
+**GIPUZKOA:**
+- #c6ca59ff
+ - #c6ca593f
+- 
+- #ffffffff
+
+**ARABA:**
+- #7794ddff
+ - #7794dd3f
+-
+-  #ffffffff
+
+**NAFARROA:**
+- #ff5959ff
+ - #ff59593f
+- 
+- #ffffffff
+
+**LAPURDI:**
+- #ff9f59
+ - #ff9f593f
+- #ffb641ff
+- #ffffffff
+
+**NAFARROA BEHERA:**
+- #965959ff
+ - #9659593f
+- 
+- #ffffffff
+
+**ZUBEROA:**
+- #62b35aff
+ - #62b35a3f
+- 
+- #ffffffff
+
 ---
 
 ## 6.2 Tipografia
