@@ -286,28 +286,19 @@ Ibilbideen barruan argazkiak erabiltzea aurreikusten da, erabiltzaileak bisitatu
 
 Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainerako elementuekin orekatuta egon beharko du.
 
-![Euskal Herria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUzL2L2BBwB-fL4MoWnjoDWsqFEH-JfWuiBnVroKglEybvmGjo5r3Hw9Iw1GVOF95LiRB4hNK6c4bFHfXIDdE8iHeXuKAIkMnMpDs6sxZaazYdbn60MnF8Ashr7p8GjX8-UutEMSeFdSSq/s2000/Euskal_Herriko_kolore_mapa.png)
+![Euskal Herria](Irudiak/EuskalHerria.svg)
+![Euskal Herria munduan](Irudiak/GlobalBasqueCountry.svg)
 
-![Vizcaya](https://upload.wikimedia.org/wikipedia/commons/0/00/Bandera_de_Vizcaya.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
-![Bizkaia](https://upload.wikimedia.org/wikipedia/commons/e/e8/Bizkaia_Euskal_Herrian.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-![Gipuzcoa](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Guip%C3%BAzcoa.svg/3840px-Flag_of_Guip%C3%BAzcoa.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
-![Gipuzkoa](https://upload.wikimedia.org/wikipedia/commons/0/0a/Gipuzkoa_Euskal_Herrian.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-![Álava](https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_%C3%81lava.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
-![Araba](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Araba.svg/1920px-Araba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20181123091430)
 
-![Navarra](https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
-![Nafarroa](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nafarroa_Euskal_Herrian.svg/3840px-Nafarroa_Euskal_Herrian.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
+| IRUDIAK | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Bandera** | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
+| **Lurraldea** | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
+| **Lurraldea mapan** | [Mapa] | [Mapa] | [Mapa] | [Mapa] | [Mapa] | [Mapa] | [Mapa] |
 
-![Labort](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Flag_of_Lapurdi.svg/3840px-Flag_of_Lapurdi.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
-![Lapurdi](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lapurdi_Euskal_Herrian.svg/1280px-Lapurdi_Euskal_Herrian.svg.png?utm_source=an.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
 
-![Baja Navarra](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Bandera_Navarra.svg/3840px-Bandera_Navarra.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
-![Nafarroa Behera](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Nafarroa_Beherea.svg/330px-Nafarroa_Beherea.svg.png?utm_source=eu.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
-
-![Zuberoa](https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Zuberoa.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
-![Zuberoa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zuberoa_Euskal_Herrian.svg/330px-Zuberoa_Euskal_Herrian.svg.png)
 
 ---
 
