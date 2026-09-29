@@ -318,31 +318,31 @@ Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainer
 # 7. Prototipoa:
 
 **BIZKAIA:**
-- [Bizkaia](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
-   * [Bizkaia](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+- [Bizkaia]()
+   * [Bizkaia](https://docs.google.com/drawings/d/1l1hBJMwcg1bDrGjLtLD69tFSMy-cyIT6N9jf_zrOdIA/edit?usp=drive_link)
 
 **GIPUZKOA:**
-- [Gipuzkoa](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
-   * [Gipuzkoa](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+- [Gipuzkoa]()
+   * [Gipuzkoa](https://docs.google.com/drawings/d/1mlyATLQ_5iu8-xur30H7vj6YF6EuFBkJY-W0ZZdQTXA/edit?usp=drive_link)
 
 **ARABA:**
-- [Araba](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
-   * [Araba](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+- [Araba]()
+   * [Araba](https://docs.google.com/drawings/d/1lgmFJaNWHQyiq-6icWXlrrMCX2sXNHcOSyBPlDR9rBA/edit?usp=drive_link)
  
 **NAFARROA:**
-- [Nafarroa](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
-   * [Nafarroa](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+- [Nafarroa]()
+   * [Nafarroa](https://docs.google.com/drawings/d/1eFAXxxvWh0mrp_XMvT5uM2oZjLRbh2DTr69FXGdyhg8/edit?usp=drive_link)
 
 **LAPURDI:**
 - [Lapurdi](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
    * [Lapurdi](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
 
 **NAFARROA BEHERA:**
-- [Nafarroa Behera](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
-   * [Nafarroa Behera](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+- [Nafarroa Behera]()
+   * [Nafarroa Behera](https://docs.google.com/drawings/d/16N8v11QK18M5dn1BitJr9HJ8GZqnVpsNkvqYrqFKyQo/edit?usp=drive_link)
 
 **ZUBEROA:**
-- [Zuberoa](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
-   * [Zuberoa](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+- [Zuberoa]()
+   * [Zuberoa](https://docs.google.com/drawings/d/1ZNKwgkdQUrOsZ_X8QBdIjXA-EskRQTUXVuTkhInocko/edit?usp=drive_link)
  
 ---
