@@ -27,6 +27,8 @@ Mendi-ibilbideak bilatzeko, kargatzeko eta deskargatzeko ataria, zailtasunaren, 
   * ( 6.3 ) [Ikonoak](#63-ikonoak)
   * ( 6.4 ) [Botoiak](#64-botoiak)
   * ( 6.5 ) [Irudiak](#65-irudiak)
+ 
+* ( 7. ) [Prototipoa](#7-prototipoa)
 
 ---
 
@@ -311,3 +313,7 @@ Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainer
 
 ![Zuberoa](https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Zuberoa.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
 ![Zuberoa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zuberoa_Euskal_Herrian.svg/330px-Zuberoa_Euskal_Herrian.svg.png)
+
+---
+
+# 7. Prototipoa:
