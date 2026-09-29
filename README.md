@@ -286,17 +286,17 @@ Ibilbideen barruan argazkiak erabiltzea aurreikusten da, erabiltzaileak bisitatu
 
 Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainerako elementuekin orekatuta egon beharko du.
 
-![Euskal Herria](Irudiak/EuskalHerria.svg)
-![Euskal Herria munduan](Irudiak/GlobalBasqueCountry.svg)
+![Euskal Herria](Irudiak/Euskal_Herria.svg)
+![Euskal Herria munduan](Irudiak/Global_Basque_Country.svg)
 
 
 
 
 | IRUDIAK | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Bandera** | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
-| **Lurraldea** | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
-| **Lurraldea mapan** | [Mapa] | [Mapa] | [Mapa] | [Mapa] | [Mapa] | [Mapa] | [Mapa] |
+| **Bandera** | ![BANDERA Vizcaya](Irudiak/Bandera_Vizcaya.svg) | ![BANDERA Guipúzcoa](Irudiak/Bandera_Guipúzcoa.svg) | ![BANDERA Álava](Irudiak/Bandera_Álava.svg) | ![BANDERA Navarra](Irudiak/Bandera_Navarra.svg) | ![BANDERA Lapurdi](Irudiak/Bandera_Lapurdi.svg) | ![BANDERA Baja Navarra](Irudiak/Bandera_Baja_Navarra.svg) | ![BANDERA Zuberoa](Irudiak/Bandera_Zuberoa.svg) |
+| **Lurraldea** | ![Vizcaya](Irudiak/Vizcaya.svg) | ![Guipúzcoa](Irudiak/Guipúzcoa.svg) | ![Álava](Irudiak/Álava.svg) | ![Navarra](Irudiak/Navarra.svg) | ![Labort](Irudiak/Labort.svg) | ![Baja Navarra](Irudiak/Baja_Navarra.svg) | ![Sola](Irudiak/Sola.svg) |
+| **Lurraldea mapan** | ![Bizkaia](Irudiak/Bizkaia.svg) | ![Gipuzkoa](Irudiak/Gipuzkoa.svg) | ![Araba](Irudiak/Araba.svg) | ![Nafarroa](Irudiak/Nafarroa.svg) | ![Lapurdi](Irudiak/Lapurdi.svg) | ![Nafarroa Behera](Irudiak/Nafarroa_Beherea.svg) | ![Zuberoa](Irudiak/Zuberoa.svg) |
 
 
 
