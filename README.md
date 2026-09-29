@@ -196,48 +196,12 @@ Euskal Herriko mapa interaktiboan zazpi lurraldeek kolore desberdinak izango dit
 
 Lurralde bat hautatzen denean, hautatutako lurraldeak berezko kolorea mantenduko du eta gainerako lurraldeak gris kolorez erakutsiko dira.
 
-
-**BIZKAIA:**
-- #a163b1ff
-- - #a163b13f
-- 
-- #ffffffff
-
-**GIPUZKOA:**
-- #c6ca59ff
-- - #c6ca593f
-- 
-- #ffffffff
-
-**ARABA:**
-- #7794ddff
-- - #7794dd3f
--
--  #ffffffff
-
-**NAFARROA:**
-- #ff5959ff
-- - #ff59593f
-- 
-- #ffffffff
-
-**LAPURDI:**
-- #ff9f59
-- - #ff9f593f
-- #ffb641ff
-- #ffffffff
-
-**NAFARROA BEHERA:**
-- #965959ff
-- - #9659593f
-- 
-- #ffffffff
-
-**ZUBEROA:**
-- #62b35aff
-- - #62b35a3f
-- 
-- #ffffffff
+| KOLOREAK | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Kolore printzipala** | #a163b1ff | #c6ca59ff | #7794ddff | #ff5959ff | #ff9f59 | #965959ff | #62b35aff |
+| **Kolorea %25eko opakizunarekin** | #a163b13f | #c6ca593f | #7794dd3f | #ff59593f | #ff9f593f | #9659593f | #62b35a3f |
+| **Gradiente koloreetan erabili ahal izateko bigarren kolorea** | Bizkaia | Gipuzkoa | Alaba | Nafarroa | #ffb641ff | Nafarroa Behera | Zuberoa |
+| **Txuria** | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff |
 
 ---
 
