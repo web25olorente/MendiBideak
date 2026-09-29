@@ -12,21 +12,19 @@ Mendi-ibilbideak bilatzeko, kargatzeko eta deskargatzeko ataria, zailtasunaren, 
 
 * ( 1. ) [Sarrera](#1-sarrera)
 * ( 2. ) [Benchmark](#2-benchmark)
-
   * ( 2.1 ) [Ondorioak](#21-ondorioak)
 * ( 3. ) [User Profila](#3-user-profila)
 * ( 4. ) [Krokisa](#4-krokisa)
-
   * ( 4.1 ) [Mobila](#41-mobila)
   * ( 4.2 ) [Ordenagailua](#42-ordenagailua)
 * ( 5. ) [Nabigazio Mapa](#5-nabigazio-mapa)
 * ( 6. ) [Estilo gida](#6-estilo-gida)
-
   * ( 6.1 ) [Koloreak](#61-koloreak)
   * ( 6.2 ) [Tipografia](#62-tipografia)
   * ( 6.3 ) [Ikonoak](#63-ikonoak)
   * ( 6.4 ) [Botoiak](#64-botoiak)
   * ( 6.5 ) [Irudiak](#65-irudiak)
+* ( 7. ) [Prototipoa](#7-prototipoa)
 
 ---
 
@@ -125,13 +123,7 @@ MendiBideak 16 urtetik gorako erabiltzaileentzat diseinatutako webgunea izango d
 
 Webgunearen erabiltzaile-profilak ez du zertan mendizale esperientziaduna izan. Ibilbideak bilatu nahi dituen edo naturan jardueraren bat egin nahi duen edozein erabiltzailek informazioa modu erraz eta ulergarrian kontsultatu ahal izatea izango da helburua.
 
-Horregatik, interfazeak bisualki erakargarria eta garbia izan beharko du. Koloreek, testuek, irudiek eta bestelako elementu grafikoek elkarrekin funtzionatu beharko dute, informazioa gehiegi kargatu gabe.
-
-Webgunearen diseinuan hainbat kolore bizi erabiltzea aurreikusten da. Naturak, paisaiek eta kanpoko inguruneek kolore ugari dituztenez, kolore horiek proiektuaren izaerarekin lotzea bilatzen da.
-
-MendiBideak teknologiaren erabilera kanpoko jarduerekin lotzea bilatuko du. Helburua ez da erabiltzailea pantailaren aurrean denbora gehiago mantentzea, baizik eta teknologia erabiliz erabiltzaileari naturara ateratzen eta toki berriak ezagutzen laguntzea.
-
-Edukiari dagokionez, informazio ugari eskaintzea aurreikusten da, baina informazio hori modu laburtu eta bisualean aurkeztuko da. Zailtasun-maila testuaren eta koloreen bidez identifikatu ahal izango da, eta klimari edo eguraldiari buruzko informazioa ere modu argian erakutsiko da.
+Saiatu nahi dena da edozein erabiltzaile erabili ahal izatea.
 
 ---
 
@@ -139,22 +131,22 @@ Edukiari dagokionez, informazio ugari eskaintzea aurreikusten da, baina informaz
 
 MendiBideak proiektuaren lehen diseinu-proposamena krokis baten bidez definitu da. Krokisaren bidez, webgunearen egitura, elementuen kokapena eta erabiltzaileak izango duen nabigazioa aurrez planifikatu dira.
 
-[Nabigazio Mapa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
-> 42 flecha jarri beharrean, taula bat sortu da adierazteko lurralde batetik bestera jun ahal izango dela adierazteko.
-
 ## 4.1 Mobila
-[Krokisa Mugikorrean](https://docs.google.com/drawings/d/1qMkfNliMRks5AamFbIr413-2wxRBGYIDWapbWcTSmX8/edit?usp=sharing)
+📱 ![Krokisa Mugikorrean](Irudiak/Krokisa_Mugikorrean)
+
 
 Webgunearen diseinua gailu mugikorretara egokituko da. Pantaila txikiagoetan elementuen banaketa eta tamaina egokitzea aurreikusten da, erabiltzaileak edukia modu erosoan kontsultatu ahal izateko.
 
 ## 4.2 Ordenagailua
-[Krokisa Ordenagailuan](https://docs.google.com/drawings/d/1dgZIePFi3mph7Dz_nphQp8CRNpzIbIc-Nk11I64pzEM/edit?usp=sharing)
+💻 ![Krokisa Ordenagailuan](Irudiak/Krokisa_Ordenagailuan_Menú_Desplegable.png)
 
 Ordenagailuko bertsioan pantaila-zabalera handiagoa aprobetxatuko da. Mapek, ibilbideen informazioak eta bestelako elementuek erabilgarri dagoen espazioa aprobetxatuko dute, baina interfazearen ordena eta irakurgarritasuna mantenduz.
 
 ---
 
 # 5. Nabigazio Mapa
+[Nabigazio Mapa](https://docs.google.com/drawings/d/1OUfY4_jM1pxkjEbJxuTI4xyYYifPQxmAPcIDMIUSWr0/edit?usp=sharing)
+> 42 flecha jarri beharrean, taula bat sortu da adierazteko lurralde batetik bestera jun ahal izango dela adierazteko.
 
 MendiBideak webgunearen nabigazioa Euskal Herriko zazpi lurraldeen mapa interaktibo baten inguruan antolatzea aurreikusten da.
 
@@ -182,6 +174,14 @@ Tipografiari dagokionez, letra biribilduak erabiltzea aurreikusten da. Aukeratut
 
 Diseinuak ez du ez itxura gehiegi serioa ezta infantilizatua ere izan nahi. Bi muturren arteko oreka bilatuko da, webgunea adin eta esperientzia desberdinetako erabiltzaileentzat egokia izan dadin.
 
+Horregatik, interfazeak bisualki erakargarria eta garbia izan beharko du. Koloreek, testuek, irudiek eta bestelako elementu grafikoek elkarrekin funtzionatu beharko dute, informazioa gehiegi kargatu gabe.
+
+Webgunearen diseinuan hainbat kolore bizi erabiltzea aurreikusten da. Naturak, paisaiek eta kanpoko inguruneek kolore ugari dituztenez, kolore horiek proiektuaren izaerarekin lotzea bilatzen da.
+
+MendiBideak teknologiaren erabilera kanpoko jarduerekin lotzea bilatuko du. Helburua ez da erabiltzailea pantailaren aurrean denbora gehiago mantentzea, baizik eta teknologia erabiliz erabiltzaileari naturara ateratzen eta toki berriak ezagutzen laguntzea.
+
+Edukiari dagokionez, informazio ugari eskaintzea aurreikusten da, baina informazio hori modu laburtu eta bisualean aurkeztuko da. Zailtasun-maila testuaren eta koloreen bidez identifikatu ahal izango da, eta klimari edo eguraldiari buruzko informazioa ere modu argian erakutsiko da.
+
 ---
 
 ## 6.1 Koloreak
@@ -195,6 +195,13 @@ Menu zabalgarrirako gradienteak erabiliko dira. Menuaren atzeko edukia zilar kol
 Euskal Herriko mapa interaktiboan zazpi lurraldeek kolore desberdinak izango dituzte. Kolore horiek lurralde bakoitza identifikatzeko erabiliko dira.
 
 Lurralde bat hautatzen denean, hautatutako lurraldeak berezko kolorea mantenduko du eta gainerako lurraldeak gris kolorez erakutsiko dira.
+
+| KOLOREAK | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Kolore printzipala** | #a163b1ff | #c6ca59ff | #7794ddff | #ff5959ff | #ff9f59 | #965959ff | #62b35aff |
+| **Kolorea %25eko opakizunarekin** | #a163b13f | #c6ca593f | #7794dd3f | #ff59593f | #ff9f593f | #9659593f | #62b35a3f |
+| **Gradiente koloreetan erabili ahal izateko bigarren kolorea** | Bizkaia | Gipuzkoa | Alaba | Nafarroa | #ffb641ff | Nafarroa Behera | Zuberoa |
+| **Txuria** | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff |
 
 ---
 
@@ -243,25 +250,24 @@ Ibilbideen barruan argazkiak erabiltzea aurreikusten da, erabiltzaileak bisitatu
 
 Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainerako elementuekin orekatuta egon beharko du.
 
-![Euskal Herria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUzL2L2BBwB-fL4MoWnjoDWsqFEH-JfWuiBnVroKglEybvmGjo5r3Hw9Iw1GVOF95LiRB4hNK6c4bFHfXIDdE8iHeXuKAIkMnMpDs6sxZaazYdbn60MnF8Ashr7p8GjX8-UutEMSeFdSSq/s2000/Euskal_Herriko_kolore_mapa.png)
 
-![Vizcaya](https://upload.wikimedia.org/wikipedia/commons/0/00/Bandera_de_Vizcaya.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
-![Bizkaia](https://upload.wikimedia.org/wikipedia/commons/e/e8/Bizkaia_Euskal_Herrian.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![Euskal Herria](Irudiak/Euskal_Herria.svg)
 
-![Gipuzcoa](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Guip%C3%BAzcoa.svg/3840px-Flag_of_Guip%C3%BAzcoa.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
-![Gipuzkoa](https://upload.wikimedia.org/wikipedia/commons/0/0a/Gipuzkoa_Euskal_Herrian.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+| IRUDIAK | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Bandera** | ![BANDERA Vizcaya](Irudiak/Bandera_Vizcaya.svg) | ![BANDERA Guipúzcoa](Irudiak/Bandera_Guipúzcoa.svg) | ![BANDERA Álava](Irudiak/Bandera_Álava.svg) | ![BANDERA Navarra](Irudiak/Bandera_Navarra.svg) | ![BANDERA Lapurdi](Irudiak/Bandera_Lapurdi.svg) | ![BANDERA Baja Navarra](Irudiak/Bandera_Baja_Navarra.svg) | ![BANDERA Zuberoa](Irudiak/Bandera_Zuberoa.svg) |
+| **Lurraldea** | ![Vizcaya](Irudiak/Vizcaya.svg) | ![Guipúzcoa](Irudiak/Guipúzcoa.svg) | ![Álava](Irudiak/Álava.svg) | ![Navarra](Irudiak/Navarra.svg) | ![Labort](Irudiak/Labort.svg) | ![Baja Navarra](Irudiak/Baja_Navarra.svg) | ![Sola](Irudiak/Sola.svg) |
+| **Lurraldea mapan** | ![Bizkaia](Irudiak/Bizkaia.svg) | ![Gipuzkoa](Irudiak/Gipuzkoa.svg) | ![Araba](Irudiak/Araba.svg) | ![Nafarroa](Irudiak/Nafarroa.svg) | ![Lapurdi](Irudiak/Lapurdi.svg) | ![Nafarroa Behera](Irudiak/Nafarroa_Beherea.svg) | ![Zuberoa](Irudiak/Zuberoa.svg) |
 
-![Álava](https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_%C3%81lava.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
-![Araba](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Araba.svg/1920px-Araba.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20181123091430)
 
-![Navarra](https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
-![Nafarroa](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nafarroa_Euskal_Herrian.svg/3840px-Nafarroa_Euskal_Herrian.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
 
-![Labort](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Flag_of_Lapurdi.svg/3840px-Flag_of_Lapurdi.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
-![Lapurdi](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lapurdi_Euskal_Herrian.svg/1280px-Lapurdi_Euskal_Herrian.svg.png?utm_source=an.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
+---
 
-![Baja Navarra](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Bandera_Navarra.svg/3840px-Bandera_Navarra.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
-![Nafarroa Behera](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Nafarroa_Beherea.svg/330px-Nafarroa_Beherea.svg.png?utm_source=eu.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+# 7. Prototipoa:
 
-![Zuberoa](https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Zuberoa.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
-![Zuberoa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zuberoa_Euskal_Herrian.svg/330px-Zuberoa_Euskal_Herrian.svg.png)
+| PROTOTIPOA | Orri Nagusia | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **📱 Mugikorrean** | [Orri Nagusia]() | [Bizkaia](https://docs.google.com/drawings/d/1cAdxclEzJTvA90El5fQVKBMzovwBJ6_GTTZ0nYqMYh8/edit?usp=drive_link) | [Gipuzkoa](https://docs.google.com/drawings/d/1Z3Kaw5tLGYcfZdftJrWTRfttpfBDmJzNYV13ECF6mhA/edit?usp=drive_link) | [Araba](https://docs.google.com/drawings/d/1NFZk-xtu3WrapePdt-NHoe0v5ZoDb5uoefc6tD9VOik/edit?usp=drive_link) | [Nafarroa](https://docs.google.com/drawings/d/1zU9fhqQXT2vFUFkok4__vwINElXbov_8-Gy6lJm6OGw/edit?usp=drive_link) | [Lapurdi](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing) | [Nafarroa Behera](https://docs.google.com/drawings/d/1g2cw2Pt3HaL7LaOpQvVujxBDbHyIXBp_-QS3uM51k3A/edit?usp=drive_link) | [Zuberoa](https://docs.google.com/drawings/d/1S8kaBCgxIW3NisSNafnocjOYtmo-HGf4iu33hwNSPAw/edit?usp=drive_link) |
+| **💻 Ordenagailuan** | [Orri Nagusia]() | [Bizkaia]() | [Gipuzkoa]() | [Araba]() | [Nafarroa]() | [Lapurdi]() | [Nafarroa Behera]() | [Zuberoa]() |
+ 
+---
