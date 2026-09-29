@@ -136,8 +136,7 @@ Saiatu nahi dena da edozein erabiltzaile erabili ahal izatea.
 MendiBideak proiektuaren lehen diseinu-proposamena krokis baten bidez definitu da. Krokisaren bidez, webgunearen egitura, elementuen kokapena eta erabiltzaileak izango duen nabigazioa aurrez planifikatu dira.
 
 ## 4.1 Mobila
-- [Krokisa Mugikorrean](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
-- [Mugikorra Estruktura](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
+![Krokisa Mugikorrean](Irudiak/Krokisa_Mugikorrean)
 
 
 Webgunearen diseinua gailu mugikorretara egokituko da. Pantaila txikiagoetan elementuen banaketa eta tamaina egokitzea aurreikusten da, erabiltzaileak edukia modu erosoan kontsultatu ahal izateko.
@@ -317,3 +316,33 @@ Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainer
 ---
 
 # 7. Prototipoa:
+
+**BIZKAIA:**
+- [Bizkaia](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
+   * [Bizkaia](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+
+**GIPUZKOA:**
+- [Gipuzkoa](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
+   * [Gipuzkoa](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+
+**ARABA:**
+- [Araba](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
+   * [Araba](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+ 
+**NAFARROA:**
+- [Nafarroa](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
+   * [Nafarroa](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+
+**LAPURDI:**
+- [Lapurdi](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
+   * [Lapurdi](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+
+**NAFARROA BEHERA:**
+- [Nafarroa Behera](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
+   * [Nafarroa Behera](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+
+**ZUBEROA:**
+- [Zuberoa](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
+   * [Zuberoa](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+ 
+---
