@@ -125,13 +125,7 @@ MendiBideak 16 urtetik gorako erabiltzaileentzat diseinatutako webgunea izango d
 
 Webgunearen erabiltzaile-profilak ez du zertan mendizale esperientziaduna izan. Ibilbideak bilatu nahi dituen edo naturan jardueraren bat egin nahi duen edozein erabiltzailek informazioa modu erraz eta ulergarrian kontsultatu ahal izatea izango da helburua.
 
-Horregatik, interfazeak bisualki erakargarria eta garbia izan beharko du. Koloreek, testuek, irudiek eta bestelako elementu grafikoek elkarrekin funtzionatu beharko dute, informazioa gehiegi kargatu gabe.
-
-Webgunearen diseinuan hainbat kolore bizi erabiltzea aurreikusten da. Naturak, paisaiek eta kanpoko inguruneek kolore ugari dituztenez, kolore horiek proiektuaren izaerarekin lotzea bilatzen da.
-
-MendiBideak teknologiaren erabilera kanpoko jarduerekin lotzea bilatuko du. Helburua ez da erabiltzailea pantailaren aurrean denbora gehiago mantentzea, baizik eta teknologia erabiliz erabiltzaileari naturara ateratzen eta toki berriak ezagutzen laguntzea.
-
-Edukiari dagokionez, informazio ugari eskaintzea aurreikusten da, baina informazio hori modu laburtu eta bisualean aurkeztuko da. Zailtasun-maila testuaren eta koloreen bidez identifikatu ahal izango da, eta klimari edo eguraldiari buruzko informazioa ere modu argian erakutsiko da.
+Saiatu nahi dena da edozein erabiltzaile erabili ahal izatea.
 
 ---
 
@@ -184,6 +178,14 @@ Tipografiari dagokionez, letra biribilduak erabiltzea aurreikusten da. Aukeratut
 
 Diseinuak ez du ez itxura gehiegi serioa ezta infantilizatua ere izan nahi. Bi muturren arteko oreka bilatuko da, webgunea adin eta esperientzia desberdinetako erabiltzaileentzat egokia izan dadin.
 
+Horregatik, interfazeak bisualki erakargarria eta garbia izan beharko du. Koloreek, testuek, irudiek eta bestelako elementu grafikoek elkarrekin funtzionatu beharko dute, informazioa gehiegi kargatu gabe.
+
+Webgunearen diseinuan hainbat kolore bizi erabiltzea aurreikusten da. Naturak, paisaiek eta kanpoko inguruneek kolore ugari dituztenez, kolore horiek proiektuaren izaerarekin lotzea bilatzen da.
+
+MendiBideak teknologiaren erabilera kanpoko jarduerekin lotzea bilatuko du. Helburua ez da erabiltzailea pantailaren aurrean denbora gehiago mantentzea, baizik eta teknologia erabiliz erabiltzaileari naturara ateratzen eta toki berriak ezagutzen laguntzea.
+
+Edukiari dagokionez, informazio ugari eskaintzea aurreikusten da, baina informazio hori modu laburtu eta bisualean aurkeztuko da. Zailtasun-maila testuaren eta koloreen bidez identifikatu ahal izango da, eta klimari edo eguraldiari buruzko informazioa ere modu argian erakutsiko da.
+
 ---
 
 ## 6.1 Koloreak
@@ -201,43 +203,43 @@ Lurralde bat hautatzen denean, hautatutako lurraldeak berezko kolorea mantenduko
 
 **BIZKAIA:**
 - #a163b1ff
- - #a163b13f
+- - #a163b13f
 - 
 - #ffffffff
 
 **GIPUZKOA:**
 - #c6ca59ff
- - #c6ca593f
+- - #c6ca593f
 - 
 - #ffffffff
 
 **ARABA:**
 - #7794ddff
- - #7794dd3f
+- - #7794dd3f
 -
 -  #ffffffff
 
 **NAFARROA:**
 - #ff5959ff
- - #ff59593f
+- - #ff59593f
 - 
 - #ffffffff
 
 **LAPURDI:**
 - #ff9f59
- - #ff9f593f
+- - #ff9f593f
 - #ffb641ff
 - #ffffffff
 
 **NAFARROA BEHERA:**
 - #965959ff
- - #9659593f
+- - #9659593f
 - 
 - #ffffffff
 
 **ZUBEROA:**
 - #62b35aff
- - #62b35a3f
+- - #62b35a3f
 - 
 - #ffffffff
 
