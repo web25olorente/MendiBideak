@@ -12,22 +12,18 @@ Mendi-ibilbideak bilatzeko, kargatzeko eta deskargatzeko ataria, zailtasunaren, 
 
 * ( 1. ) [Sarrera](#1-sarrera)
 * ( 2. ) [Benchmark](#2-benchmark)
-
   * ( 2.1 ) [Ondorioak](#21-ondorioak)
 * ( 3. ) [User Profila](#3-user-profila)
 * ( 4. ) [Krokisa](#4-krokisa)
-
   * ( 4.1 ) [Mobila](#41-mobila)
   * ( 4.2 ) [Ordenagailua](#42-ordenagailua)
 * ( 5. ) [Nabigazio Mapa](#5-nabigazio-mapa)
 * ( 6. ) [Estilo gida](#6-estilo-gida)
-
   * ( 6.1 ) [Koloreak](#61-koloreak)
   * ( 6.2 ) [Tipografia](#62-tipografia)
   * ( 6.3 ) [Ikonoak](#63-ikonoak)
   * ( 6.4 ) [Botoiak](#64-botoiak)
   * ( 6.5 ) [Irudiak](#65-irudiak)
- 
 * ( 7. ) [Prototipoa](#7-prototipoa)
 
 ---
