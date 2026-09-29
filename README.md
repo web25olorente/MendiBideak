@@ -319,30 +319,30 @@ Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainer
 
 **BIZKAIA:**
 - [Bizkaia](https://docs.google.com/drawings/d/1cAdxclEzJTvA90El5fQVKBMzovwBJ6_GTTZ0nYqMYh8/edit?usp=drive_link)
-   * [Bizkaia](https://docs.google.com/drawings/d/1l1hBJMwcg1bDrGjLtLD69tFSMy-cyIT6N9jf_zrOdIA/edit?usp=drive_link)
+   * [Zelan ikusiko da Bizkaia](https://docs.google.com/drawings/d/1l1hBJMwcg1bDrGjLtLD69tFSMy-cyIT6N9jf_zrOdIA/edit?usp=drive_link)
 
 **GIPUZKOA:**
 - [Gipuzkoa](https://docs.google.com/drawings/d/1Z3Kaw5tLGYcfZdftJrWTRfttpfBDmJzNYV13ECF6mhA/edit?usp=drive_link)
-   * [Gipuzkoa](https://docs.google.com/drawings/d/1mlyATLQ_5iu8-xur30H7vj6YF6EuFBkJY-W0ZZdQTXA/edit?usp=drive_link)
+   * [Zelan ikusiko da Gipuzkoa](https://docs.google.com/drawings/d/1mlyATLQ_5iu8-xur30H7vj6YF6EuFBkJY-W0ZZdQTXA/edit?usp=drive_link)
 
 **ARABA:**
 - [Araba](https://docs.google.com/drawings/d/1NFZk-xtu3WrapePdt-NHoe0v5ZoDb5uoefc6tD9VOik/edit?usp=drive_link)
-   * [Araba](https://docs.google.com/drawings/d/1lgmFJaNWHQyiq-6icWXlrrMCX2sXNHcOSyBPlDR9rBA/edit?usp=drive_link)
+   * [Zelan ikusiko da Araba](https://docs.google.com/drawings/d/1lgmFJaNWHQyiq-6icWXlrrMCX2sXNHcOSyBPlDR9rBA/edit?usp=drive_link)
  
 **NAFARROA:**
 - [Nafarroa](https://docs.google.com/drawings/d/1zU9fhqQXT2vFUFkok4__vwINElXbov_8-Gy6lJm6OGw/edit?usp=drive_link)
-   * [Nafarroa](https://docs.google.com/drawings/d/1eFAXxxvWh0mrp_XMvT5uM2oZjLRbh2DTr69FXGdyhg8/edit?usp=drive_link)
+   * [Zelan ikusiko da Nafarroa](https://docs.google.com/drawings/d/1eFAXxxvWh0mrp_XMvT5uM2oZjLRbh2DTr69FXGdyhg8/edit?usp=drive_link)
 
 **LAPURDI:**
 - [Lapurdi](https://docs.google.com/drawings/d/1QiJXfuK8JNL708_QLzIose2XKUAgPngaU2Ho910tVFU/edit?usp=sharing)
-   * [Lapurdi](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
+   * [Zelan ikusiko da Lapurdi](https://docs.google.com/drawings/d/1RjLENLL9q3AmMmVm68t-x7feHnP2XPTt4tIqgcehGAY/edit?usp=sharing)
 
 **NAFARROA BEHERA:**
 - [Nafarroa Behera](https://docs.google.com/drawings/d/1g2cw2Pt3HaL7LaOpQvVujxBDbHyIXBp_-QS3uM51k3A/edit?usp=drive_link)
-   * [Nafarroa Behera](https://docs.google.com/drawings/d/16N8v11QK18M5dn1BitJr9HJ8GZqnVpsNkvqYrqFKyQo/edit?usp=drive_link)
+   * [Zelan ikusiko da Nafarroa Behera](https://docs.google.com/drawings/d/16N8v11QK18M5dn1BitJr9HJ8GZqnVpsNkvqYrqFKyQo/edit?usp=drive_link)
 
 **ZUBEROA:**
 - [Zuberoa](https://docs.google.com/drawings/d/1S8kaBCgxIW3NisSNafnocjOYtmo-HGf4iu33hwNSPAw/edit?usp=drive_link)
-   * [Zuberoa](https://docs.google.com/drawings/d/1ZNKwgkdQUrOsZ_X8QBdIjXA-EskRQTUXVuTkhInocko/edit?usp=drive_link)
+   * [Zelan ikusiko da Zuberoa](https://docs.google.com/drawings/d/1ZNKwgkdQUrOsZ_X8QBdIjXA-EskRQTUXVuTkhInocko/edit?usp=drive_link)
  
 ---
