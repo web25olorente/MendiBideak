@@ -286,11 +286,8 @@ Ibilbideen barruan argazkiak erabiltzea aurreikusten da, erabiltzaileak bisitatu
 
 Irudien erabilerak ez du informazioa gainkargatu beharko; testuarekin eta gainerako elementuekin orekatuta egon beharko du.
 
+
 ![Euskal Herria](Irudiak/Euskal_Herria.svg)
-![Euskal Herria munduan](Irudiak/Global_Basque_Country.svg)
-
-
-
 
 | IRUDIAK | Bizkaia | Gipuzkoa | Araba | Nafarroa | Lapurdi | Nafarroa Behera | Zuberoa |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
