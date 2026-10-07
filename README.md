@@ -200,7 +200,7 @@ Lurralde bat hautatzen denean, hautatutako lurraldeak berezko kolorea mantenduko
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Kolore printzipala** | #a163b1ff | #c6ca59ff | #7794ddff | #ff5959ff | #ff9f59 | #965959ff | #62b35aff |
 | **Kolorea %25eko opakizunarekin** | #a163b13f | #c6ca593f | #7794dd3f | #ff59593f | #ff9f593f | #9659593f | #62b35a3f |
-| **Gradiente koloreetan erabili ahal izateko bigarren kolorea** | Bizkaia | Gipuzkoa | Alaba | Nafarroa | #ffb641ff | Nafarroa Behera | Zuberoa |
+| **Gradiente koloreetan erabili ahal izateko bigarren kolorea** | #b88cc0ff | #c9d070ff | #9baee2ff | #fd6f6fff | #ffb641ff | #a57279ff | #73bb6cff |
 | **Txuria** | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff | #ffffffff |
 
 ---
