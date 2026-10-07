@@ -136,7 +136,7 @@ Webgunearen diseinua gailu mugikorretara egokituko da. Pantaila txikiagoetan ele
 
 | Krokis | Orri Nagusia | Lurraldeena |
 | :--- | :---: | :---: |
-| **📱 Mugikorra** | ![Krokisa Mugikorrean](Irudiak/MaquetaMonocromaDeInterfazMóvil.png) | ![Krokisa Mugikorrean](Irudiak/MaquetaMonocromaDeInterfazMóvil.png) |
+| **📱 Mugikorra** | ![Krokisa Mugikorrean](Irudiak/CroquísMóvilPáginaPrincipal.png) | ![Krokisa Mugikorrean](Irudiak/CroquísMóvilTerritorios.png) |
 
 
 ## 4.2 Ordenagailua
@@ -144,7 +144,7 @@ Ordenagailuko bertsioan pantaila-zabalera handiagoa aprobetxatuko da. Mapek, ibi
 
 | Krokis | Orri Nagusia | Lurraldeena |
 | :--- | :---: | :---: |
-| **💻 Ordenagailua** | ![Krokisa Ordenagailuan](Irudiak/Krokisa_Ordenagailuan_Menú_Desplegable.png) | ![Krokisa Ordenagailuan](Irudiak/Krokisa_Ordenagailuan_Menú_Desplegable.png) |
+| **💻 Ordenagailua** | ![Krokisa Ordenagailuan](Irudiak/CroquísOrdenadorPáginaPrincipal.png) | ![Krokisa Ordenagailuan](Irudiak/CroquísOrdenadorTerritorios.png) |
 
 ---
 
